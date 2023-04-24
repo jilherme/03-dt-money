@@ -2,9 +2,11 @@
 
 ### Como rodar o projeto
 
-Instale as dependencias com `npm i`
+Instale as dependencias com `pnpm i`
 
-Inicie o projeto com `npm dev`
+Inicie o projeto com `pnpm dev`
+
+Inicie o servidor com `pnpm dev:server`
 
 ### Tecnologias utilizadas
 - ReactJS
